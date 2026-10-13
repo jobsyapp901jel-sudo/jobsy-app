@@ -1,0 +1,31 @@
+designs/README.md
+mobile/README.md
+jobsy-app
+│
+├── docs
+├── designs
+├── mobile
+└── README.md
+docs/roadmap.md
+# Jobsy Roadmap
+
+## Version 1
+
+- User Registration
+- Professional Profiles
+- Upload Videos
+- Search by Profession
+- Search by City
+- WhatsApp Contact
+
+## Version 2
+
+- Reviews
+- Chat
+- Notifications
+
+## Version 3
+
+- Payments
+- Premium Accounts
+- AI Assistant
